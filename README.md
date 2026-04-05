@@ -89,6 +89,3 @@ python Detect.py
 * Abdullah Alahmadi
 * Yazan Nawab
 * Abdulhameed Makhdum
-
-## Version 0.1
-
