@@ -86,6 +86,6 @@ python Detect.py
 
 ## Author
 
-Abdullah Alahmadi
-Yazan Nawab
-Abdulhameed Makhdum
+* Abdullah Alahmadi
+* Yazan Nawab
+* Abdulhameed Makhdum
