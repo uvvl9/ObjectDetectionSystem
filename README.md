@@ -86,4 +86,6 @@ python Detect.py
 
 ## Author
 
-* Your Name
+Abdullah Alahmadi
+Yazan Nawab
+Abdulhameed Makhdum
